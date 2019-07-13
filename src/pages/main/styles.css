@@ -1,0 +1,30 @@
+.container-right {
+    background-color: #fff;
+    padding: 120px 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(211, 211, 211);
+    border-radius: 3px;
+}
+
+.container-left {
+    background-color: #00aebf;
+    border-color: black;
+    border-radius: 4px;
+}
+
+.content {
+    margin-top: 8%;
+}
+
+.title-login {
+    color: #fff;
+    font-weight: bold;
+    margin-top:100px;
+    margin-left: 70px;
+}
+
+.legend {
+    margin-top: 12%;
+    float: right;
+}
